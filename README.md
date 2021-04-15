@@ -67,7 +67,7 @@ To preview your changes as you edit the files, you can run a local development s
 Follow these steps:
 
 ```console
-$ cd talawa-docs
+$ cd Shared-Backpack-docs
 $ yarn run start
 ```
 
