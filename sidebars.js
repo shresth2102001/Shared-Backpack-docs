@@ -11,10 +11,10 @@ module.exports = {
       type: 'category',
       label : 'Shared Backpack user app',
       items :[
-        'Shared-Backpack-user-app/Getting-Started',
-        'Shared-Backpack-user-app/Connecting-People',
-        'Shared-Backpack-user-app/Cheap-Travel',
-        'Shared-Backpack-user-app/Local-References',
+        'Shared-Backpack-user-app/GettingStarted',
+        'Shared-Backpack-user-app/ConnectingPeople',
+        'Shared-Backpack-user-app/CheapTravel',
+        'Shared-Backpack-user-app/LocalReferences',
       ]
     }
   ],
