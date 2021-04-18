@@ -71,7 +71,7 @@ export default function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
+              to={useBaseUrl('docs/Shared-Backpack-user-app')}>
               Get Started
             </Link>
           </div>
