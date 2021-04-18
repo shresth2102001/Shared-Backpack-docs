@@ -1,4 +1,7 @@
 ### What do we do 
+
+This page is maintained by Gurvinder Singh Yadav
+
 - connect people with similar interests
 - make travel light on our pockets
 - provide local references of the destinations

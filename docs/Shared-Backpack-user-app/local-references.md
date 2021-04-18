@@ -1,4 +1,7 @@
 ### find people who know the place
+
+This page is maintained by Gurvinder Singh Yadav
+
 - we believe in the fact that people know their own turf better.
     - Taking this in mind we find people who are fimiliar with 
     places that you want to visit

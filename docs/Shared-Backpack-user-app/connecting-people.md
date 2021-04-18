@@ -1,4 +1,7 @@
 ### a more connected approach
+
+This page is maintained by Gurvinder Singh Yadav
+
 - We seek to find people of similar interests and energy 
 so that you are really able to enjoy your trips.
 - There are instances when we are not able to match the energy 
