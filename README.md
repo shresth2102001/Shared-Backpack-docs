@@ -94,4 +94,6 @@ $ yarn run build
 
 This command generates static content into the `/build` directory and can be served using any static contents hosting service.
 
- ### Please read our [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+ ### Please read our 
+ 
+ [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
