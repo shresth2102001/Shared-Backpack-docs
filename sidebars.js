@@ -2,15 +2,14 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Docusaurus Tutorial',
-      items: [
-        'getting-started',
-        'create-a-page',
-        'create-a-document',
-        'create-a-blog-post',
-        'markdown-features',
-        'thank-you',
-      ],
-    },
+      label : 'Shared-Backpack-user-app',
+      items :[
+        'Shared-Backpack-user-app/getting-started',
+        'Shared-Backpack-user-app/connecting-people',
+        'Shared-Backpack-user-app/cheap-travel',
+        'Shared-Backpack-user-app/local-references',
+          
+      ]
+    }
   ],
 };
