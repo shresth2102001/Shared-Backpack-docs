@@ -19,11 +19,11 @@ module.exports = {
       title: "The Shared BackPack",
       logo: {
         alt: "The Shared Backpack Logo",
-        src: "img/logos/logo-200x200.png",
+        src: "img/logo.jpeg",
       },
       items: [
         {
-          to: "docs/",
+          to: "docs/About",
           activeBasePath: "docs",
           label: "Docs",
           position: "left",
