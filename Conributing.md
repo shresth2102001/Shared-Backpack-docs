@@ -13,7 +13,6 @@ If you are ready to start contributing code right away, we have a list of [good 
     * [Pull Requests](#pull-requests)
     * [Git Flow](#git-flow)
 * [Contributing Code](#contributing-code)
-* [GSoC](#gsoc)
 * [Community](#community)
 
 
@@ -57,5 +56,5 @@ The process of proposing a change to Shared-Backpack-docs can be summarized as:
 11. Review and address comments on your pull request if requested.
 
 ### Community
-The Incentive Coders has a Slack channel where members can assist with support and clarification. Click [here](https://play.google.com/store/apps/details?id=com.Slack) to join our slack channel.
+The Incentive Coders has a Slack channel where members can assist with support and clarification. Click [here](https://join.slack.com/t/thesharedbackpack/shared_invite/zt-pce62vf4-EGFS3vbmAuJlBCAyAdTEJg) to join our slack channel.
 The Incentive Coders has a LinkedIN page. Click [here]( https://www.linkedin.com/company/incentive-coders/) to follow our LinkedIN page.
