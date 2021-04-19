@@ -1,5 +1,6 @@
 # Shared-Backpack-docs
-
+[![GitHub stars](https://img.shields.io/github/stars/The-Shared-Backpack/Shared-Backpack-docs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/The-Shared-Backpack/Shared-Backpack-docs)
+[![GitHub forks](https://img.shields.io/github/forks/The-Shared-Backpack/Shared-Backpack-docs.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/The-Shared-Backpack/Shared-Backpack-docs)
 ## Components
 
 The Document Section for the Shared-Backpack Project.
@@ -93,4 +94,6 @@ $ yarn run build
 
 This command generates static content into the `/build` directory and can be served using any static contents hosting service.
 
+ ### Please read our 
  
+ [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
