@@ -16,6 +16,14 @@ module.exports = {
         'Shared-Backpack-user-app/CheapTravel',
         'Shared-Backpack-user-app/LocalReferences',
       ]
-    }
+    },
+    { 
+      type: 'category',
+      label: 'Admin Panel',
+      items: [
+        'Shared Backpack Admin Panel/User-Management',
+        'Shared Backpack Admin Panel/Mini-Admin-Management',
+      ]
+    },
   ],
 };
